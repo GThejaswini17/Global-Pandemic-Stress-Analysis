@@ -485,9 +485,9 @@ ax_metrics.legend(loc="upper right")
 st.pyplot(fig_metrics)
 
 classification_report_catboost = {
-    "1": {"precision": 0.00, "recall": 0.00, "f1-score": 0.00},
-    "2": {"precision": 0.51, "recall": 1.00, "f1-score": 0.67},
-    "3": {"precision": 0.00, "recall": 0.00, "f1-score": 0.00}
+    "1": {"precision": 0.23, "recall": 0.40, "f1-score": 0.30},
+    "2": {"precision": 0.53, "recall": 0.36, "f1-score": 0.43},
+    "3": {"precision": 0.32, "recall": 0.33, "f1-score": 0.32}
 }
 
 # Extract metrics for plotting
@@ -590,7 +590,7 @@ accuracies = [
     0.6700,  # Random Forest with Hyperparameter Tuning
     0.3779,  # GaussianNB
     0.4670,  # Voting Classifier
-    0.4670   # CatBoost
+    0.3600   # CatBoost
 ]
 
 # Streamlit display
