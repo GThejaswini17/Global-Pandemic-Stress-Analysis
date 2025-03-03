@@ -23,7 +23,7 @@ We'd like to thank the following individuals for their contributions:
     </td>
  <td align="center">
         <a href="https://github.com/GThejaswini17">
-            <img src="https://github.com/GThejaswini17" width="100;" alt="[Thejaswini]"/>
+            <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" width="100;" alt="[Thejaswini]"/>
             <br />
             <sub><b>Thejaswini</b></sub>
         </a>
